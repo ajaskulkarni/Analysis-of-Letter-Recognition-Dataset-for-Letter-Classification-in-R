@@ -6,7 +6,7 @@ After selecting all the features, we built the model and we compared three class
 
 Thus, we concluded that all the 16 variables are important for classifying the letters in Letter Recognition data set. We also conclude that KNN has better accuracy as compared to Random Forest and SVM. KNN is also able to classify 99% A’s correctly which is the greater percentage of prediction for A as compared to any other letter.
 
-# Shiny app screenshots
+# Shiny Screenshots
 
 ![shiny_1](https://cloud.githubusercontent.com/assets/25486323/26531065/643abff2-43af-11e7-84cd-de891156ab95.png)
 
